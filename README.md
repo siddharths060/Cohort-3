@@ -74,11 +74,3 @@ By the end of this journey, I aim to:
 
 ---
 
-## 🤝 Let’s Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharths060)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-
-> ⭐ Star this repo if you’re also on your dev journey — let’s grow together!
-
----
