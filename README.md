@@ -1,10 +1,10 @@
-# Cohort-3
 # 🚀 My Web Development Journey — Cohort 3
 
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd1ZmtlaGZ6NzkwZGtuM3dpNnAzbWliZTFzMTRxbG95bDhpc2thZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pzK009rlCak/giphy.gif)
+![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh5ajRjMXQ4eHZpd2ZxdDA3Z2ZrY3Y3ZzhxZzNtbTF4OXh5amk3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif)
 
-Welcome to **`cohort-3`** — my digital playground where I document my journey through **Web2** and **Web3** development.  
-Think of this repo as my personal dev diary, but with code, coffee, and some chaos. ☕💻
+Welcome to **`cohort-3`** — my digital log of mastering **Web2** and **Web3** development.  
+This repo is my living record of projects, experiments, and lessons learned along the way.  
+Minimal fluff, maximum growth. 💻☕
 
 ---
 
@@ -13,27 +13,27 @@ Think of this repo as my personal dev diary, but with code, coffee, and some cha
 ### **🌐 Web2 Foundations**
 > HTML, CSS, JS → Frameworks → Backend → Databases → APIs
 
-- 📚 **HTML5 & CSS3** – Semantic markup & styling basics
-- 🎨 **Tailwind CSS** – Because writing `display: flex` 500 times is overrated
-- ⚡ **JavaScript** – DOM manipulation, ES6+, async/await magic
-- ⚛ **React.js** – My go-to for building dynamic frontends
-- 🌍 **Node.js & Express** – Backend adventures
+- 📚 **HTML5 & CSS3** – Semantic markup & responsive layouts
+- 🎨 **Tailwind CSS** – Utility-first styling
+- ⚡ **JavaScript** – ES6+, async/await, modular code
+- ⚛ **React.js** – Dynamic & component-based UIs
+- 🌍 **Node.js & Express** – Backend APIs and services
 - 🗄 **Databases** – MongoDB, PostgreSQL
 
-![Web2 GIF](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+![Web2 GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBvOXNwY3cyb3d4eWx5a2RxOXdoZXc2cncwN29jYXc3enM1Y3B2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
 ### **🕸 Web3 Exploration**
 > Blockchain, Smart Contracts, and DApps
 
-- ⛓ **Ethereum Basics** – Wallets, transactions, gas
-- 📜 **Solidity** – Writing smart contracts like a blockchain wizard
-- ⚙ **Hardhat/Foundry** – Testing & deploying contracts
-- 🔗 **Web3.js & Ethers.js** – Connecting frontend to blockchain
+- ⛓ **Ethereum Basics** – Wallets, transactions, gas fees
+- 📜 **Solidity** – Smart contracts for decentralized logic
+- ⚙ **Hardhat/Foundry** – Contract testing & deployment
+- 🔗 **Web3.js & Ethers.js** – Bridging frontend with blockchain
 - 🛠 **DApps** – Fully decentralized apps with React + Web3
 
-![Web3 GIF](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
+![Web3 GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnd4dW50OG50d3I4d2x6OWx6YzFubTNhMnhjZnd0dWtwazAzbnpieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ---
 
@@ -41,18 +41,23 @@ Think of this repo as my personal dev diary, but with code, coffee, and some cha
 
 | Project Name | Tech Stack | Description |
 |--------------|------------|-------------|
-| **Todo App** | React, Tailwind | Simple but sleek todo list app |
+| **Todo App** | React, Tailwind | Sleek and functional task manager |
 | **NFT Marketplace** | Solidity, React, IPFS | Buy, sell, and mint NFTs |
-| **Crypto Price Tracker** | React, API | Live crypto prices using CoinGecko API |
-| **Portfolio Website** | HTML, CSS, JS | My personal portfolio |
+| **Crypto Price Tracker** | React, API | Live crypto price updates from CoinGecko |
+| **Portfolio Website** | HTML, CSS, JS | My personal showcase site |
 
 ---
 
 ## 📸 Gallery of My Journey
 
-![Coding Life](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-![Another Fun Image](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
-> Yes, it’s a mix of late-night debugging & aha moments 🎯
+![Coding Life](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp0M3UyaDVrOHZ1aHdxNnQyazlxanZobzF5NHM3bDBsdzNvZnAxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)  
+> When your code finally works after hours of debugging.  
+
+![Meme](https://i.imgflip.com/4/4m8h7m.jpg)  
+> “It works on my machine” — the developer’s national anthem.  
+
+![Debugging Meme](https://i.imgflip.com/30zz5g.jpg)  
+> Debugging: The art of fixing one bug and discovering three more.
 
 ---
 
@@ -73,4 +78,3 @@ By the end of this journey, I aim to:
 3. Contribute to open-source blockchain projects
 
 ---
-
