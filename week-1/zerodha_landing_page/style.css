@@ -1,0 +1,54 @@
+.Navbar{
+   
+    display: flex;
+    padding-left: 200px;
+     padding-bottom: 50px;
+    padding-top: 10px;
+    padding-right: 300px;
+    justify-content: space-between;
+
+}
+
+.links{
+  
+    padding : 10px;
+    color: #666;
+}
+
+.middle-section{
+    display: flex;
+    justify-content: center;
+}
+
+
+.bottom-section-text-1{
+    color: #424242;
+    font-size: 30px;
+    font-weight: 600;
+    padding:20px;
+    text-align: center;
+}
+
+.bottom-section-text-2{
+    color: #424242;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+.bottom-button{
+    text-align: center;
+    
+}
+
+.button-1 {
+    background-color: #387ed1;
+    margin: 50px;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 5px;
+
+    border: none;    
+    outline: none;   
+    padding: 10px 20px; 
+    cursor: pointer;   
+}
