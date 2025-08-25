@@ -18,3 +18,11 @@ body{
     font-size: 20px;
     padding:5px;
 }
+.NavBar-button{
+    background-color: green;
+    color:white;
+    width: 70px;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
