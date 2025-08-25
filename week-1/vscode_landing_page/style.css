@@ -6,13 +6,15 @@ body{
     justify-content: flex-start;
     
 }
-.vscode-image{
-    width :"25px";
-    padding: 50px;
 
-}
 .Visual-Studio-code-text{
     color: white;
     font-size: 25px;
+    padding:5px;
+}
+
+.NavBar-right-side{
+    color: white;
+    font-size: 20px;
     padding:5px;
 }
