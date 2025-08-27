@@ -2,13 +2,18 @@
    technically the brower can run C/C++ code using web assembly
    Properties of JS:
    1.Interpreted
-   Js is an interperted language, ie: it is executed line by line at runtime
+   Js is an interperted language(technically: JIT just in time compiled language), ie: it is executed line by line at runtime
    by the javascript engine in the brower or server environment 
 
    2.Dynamically typed language
-   ie, the variables of js are not bound to a specific data type
+   ie, the variables of js are not bound to a specific data type, ie, types are determined at run time and can change
+   as the program executes
    
-   3.
+   3.Single threaded nature
+   Js is single threaded in nature, ie, it can process only one task at a time
+
+   4.Garbage collection
+   JS automatically 
 */
 
 var a = 10;
