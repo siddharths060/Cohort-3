@@ -30,4 +30,6 @@
     c = false
     console.log(c)
 
-  
+  /* 
+  Basically either use LET or CONST
+  */
