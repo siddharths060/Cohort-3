@@ -15,3 +15,4 @@ var a = 10;
 console.log(a);
 a = "sid"
 console.log(a);
+// this change in datatype will typically lead to an error in compiled languges like c++ or java
