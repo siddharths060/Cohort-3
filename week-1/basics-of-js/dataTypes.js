@@ -13,8 +13,8 @@ the data types in java script are divided into two major categories:
     Non primitive/Reference Data types :
     object : Collection of key-value pairs.
     arrays : Ordered list of values (can mix types).
-    
-
+    Function : (also an object in JS!)
+    Date : (built-in object)
 */
 
 
@@ -49,3 +49,23 @@ the data types in java script are divided into two major categories:
 console.log("Name : " + persons.person1.firstName + " age : " + persons.person1.age + " canVote :" + persons.person1.canVote);
 console.log("Name : " + persons.person2.firstName + " age : " + persons.person2.age + " canVote :" + persons.person2.canVote);
 console.log("Name : " + persons.person3.firstName + " age : " + persons.person3.age + " canVote :" + persons.person3.canVote);
+
+// arrays : 
+
+let personArray = [["lamar", 23, true],["franklin", 30, true], ["Trevor", 17, false]]
+for(let i = 0; i < personArray.length; i++){
+    for(let j =0; j < personArray.length; j++){
+        console.log( personArray[i][j])
+    }
+}
+
+// functions 
+
+function greet(name){
+    return "Hello " + name + "!"
+}
+
+console.log(greet("Trevor"))
+
+let today = new Date();
+console.log(today);
